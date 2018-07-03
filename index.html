@@ -1,6 +1,10 @@
-<!DOCTYPE html>
-<html>
-    <body>
-        Something here soon
-    </body>
-</html>
+---
+layout: default
+---
+
+<ul>
+{% for post in site.posts %}
+    <li>{{ post.date | date_to_string }} - <a href="{{ post.url }}">{{ post.title }}</a></li>
+    {{ post.excerpt }}
+{% endfor %}
+</ul>
