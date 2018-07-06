@@ -29,6 +29,9 @@ plugins:
   - jekyll-feed
 
 links:
+    - title: "Home"
+      url: "/"
+
     - title: "A propos"
       url: "/about"
 # Exclude from processing.
