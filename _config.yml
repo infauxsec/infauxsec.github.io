@@ -20,6 +20,7 @@ description: >-
 baseurl: "" 
 url: "https://infauxsec.github.io"
 github_username:  infauxsec
+twitter_username: infauxsecnews
 
 # Build settings
 markdown: kramdown
