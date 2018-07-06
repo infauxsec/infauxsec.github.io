@@ -17,7 +17,7 @@ title: InFauxSec News
 email: infauxsec@invalid
 description: >- 
   Le magazine de l'actualité francophone de la sécurité informatique.
-baseurl: "" 
+baseurl: "/" 
 url: "https://infauxsec.github.io"
 github_username:  infauxsec
 twitter_username: infauxsecnews
@@ -28,6 +28,12 @@ remote_theme: thiagorossener/jekflix-template
 plugins:
   - jekyll-feed
 
+links:
+    - title: "Home"
+      url: "/"
+
+    - title: "A propos"
+      url: "/about"
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
