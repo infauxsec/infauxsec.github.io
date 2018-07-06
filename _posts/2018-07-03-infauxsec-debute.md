@@ -2,7 +2,7 @@
 layout: post
 title: "InFauxSec fait ses premiers pas !"
 author: Jean-Kévin Acoeur
-image: "https://farm2.staticflickr.com/2426/3958637561_c266717b95_o.jpg"
+image: "/assets/thumbs.jpg"
 tags: infauxsec
 category: meta
 twitter_text: twitter_text
