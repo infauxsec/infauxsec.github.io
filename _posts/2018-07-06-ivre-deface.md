@@ -18,7 +18,7 @@ Jean-H4xx0r'SH arpentait tranquillement le Web lorsque c'est arrivé.
 aller me coucher quand mon doigt a rippé. Le temps que je reprenne ma souris
 en main, j'avais déjà signalé le deface sur Zone-H. »*
 
-Deface qui lui risque de lui coûter cher, si les administrateurs de Zone-H
+Deface qui risque de lui coûter cher, si les administrateurs de Zone-H
 décident qu'il y a eu tentative de triche.
 
 *« Chez Zone-H, nous defaçons par amour pour ce sport, et nous sommes très déçus
