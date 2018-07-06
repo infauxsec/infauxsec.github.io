@@ -23,7 +23,7 @@ github_username:  infauxsec
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-hacker
+remote_theme: thiagorossener/jekflix-template
 plugins:
   - jekyll-feed
 
