@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: "InFauxSec fait ses premiers pas !"
 author: Jean-Kévin Acoeur
 image: "/assets/thumbs.jpg"

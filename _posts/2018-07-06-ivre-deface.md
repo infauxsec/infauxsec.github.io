@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: "Ivre, il deface son propre site et le report sur Zone-H"
 author: Jean-Jacques Peerat
 image: "/assets/zone-h.jpeg"
