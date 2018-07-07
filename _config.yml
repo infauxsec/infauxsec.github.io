@@ -21,6 +21,7 @@ baseurl: "/"
 url: "https://infauxsec.github.io"
 github_username:  infauxsec
 twitter_username: infauxsecnews
+disqus_username:  infauxsecnews
 
 # Build settings
 markdown: kramdown
