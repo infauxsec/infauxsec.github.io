@@ -25,7 +25,7 @@ travaille à scanner le port 22 de divers réseaux inféodés à l'oppresseur
 impérialiste. Ses journées font parfois jusqu'à 24h par jour,
 dans des conditions déplorables et sans aucune protection syndicale.
 Jean-Xiuying, comme la plupart de ses collègues, survit en s'accrochant au
-rève d'une vie meilleure : Une retraite au chaud dans une ferme à bitcoins,
+rêve d'une vie meilleure : une retraite au chaud dans une ferme à bitcoins,
 entouré de ses 34'523 processus fils.
 
 Le cyber-espace n'a pas de secret pour Jean-Xiuying; il en connaît toutes
