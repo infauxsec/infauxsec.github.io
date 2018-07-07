@@ -19,6 +19,8 @@ description: >-
   Le magazine de l'actualité francophone de la sécurité informatique.
 baseurl: "/" 
 url: "https://infauxsec.github.io"
+username: InfauxSec News
+user_description: Le magazine de l'actualité francophone de la sécurité informatique.
 github_username:  infauxsec
 twitter_username: infauxsecnews
 disqus_username:  infauxsecnews
