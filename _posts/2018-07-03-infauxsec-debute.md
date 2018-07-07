@@ -5,7 +5,7 @@ author: Jean-Kévin Acoeur
 image: "/assets/thumbs.jpg"
 tags: infauxsec
 category: meta
-twitter_text: twitter_text
+twitter_text: infauxsec debarque
 introduction: InFauxSec, ce blog de qualité.
 ---
 
@@ -17,6 +17,22 @@ avec passion et subtilité les prouesses les plus techniques et les scripts d'en
 Comment démêler le vrai du faux ? Voila la mission impossible que nous nous refusons à décliner d'y échapper.
 
 Chaque semaine, des informations exactement authentiques, vérifiées scrupuleusement par notre équipe de rédacteurs
-passionnants et passionnés.
+passionnants et passionnés. Découvrez notre équipe de cracks en sécurité !
 
-  --Jean-Kévin, rédacteur en chef.
+### Direction
+  - Jean-Kévin Acoeur, rédacteur en chef
+  - Jean-Jhack Lepeerat, rédacteur adjoint
+
+### Journalistes
+  - Victor Hayden-Cervix, journaliste (Anonymity & Crypto)
+  - Philomène Innblack, journaliste (Malware Intelligence)
+  - Loktar Ghunzhip, journaliste (Storage Systems)
+  - Xi Prau, journaliste (Réseau)
+  - Jess Socks, journaliste (Frontend Systems)
+  - Derek Tritra-Vershal, journaliste (Backend Systems)
+  
+### Support
+  - Hans Gruber, Graphiste
+  - Ella Prono, stagiaire SSTIC
+
+
