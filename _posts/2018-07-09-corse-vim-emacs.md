@@ -22,7 +22,7 @@ le patriarche de la famille Agostinu.
 
 Interrogé sur la situation, et sur son espoir de voir le conflit un jour s'apaiser, Jean-Petru nous
 offre une réponse teintée de pessimisme: *« Eh, vous manquez pas de culot, les
-***pinzutu***, a venir nous donner des leçons
+__pinzutu__, a venir nous donner des leçons
 alors que vous tournez sous Windows. Basta avec ces histoires »*, conclut-il en nettoyant le canon de son AK-47
 avec son tapis de souris. Il refusera de nous en dire plus.
 
