@@ -30,6 +30,6 @@ alors que ses petits camarades commencent à peine à maîtriser l'art de la sou
 sur l'avenir de la nouvelle génération.
 
 Une ombre plane pourtant sur ce tableau idyllique. La maman de Jean-Enzo espérait que ce résultat brillant suffise pour permettre à celui-ci
-d'intégrer immédiatement l'IUT du Limousin comme professeur titulaire; hélas, elle s'est heurtée à un refus catégorique. Une preuve évidente du racisme
+d'intégrer immédiatement l'IUT du Limousin comme professeur titulaire ; hélas, elle s'est heurtée à un refus catégorique. Une preuve évidente du racisme
 endémique dans la région, pour la maman de Jean-Enzo, qui ne comprend pas pourquoi le prix Nobel de mathématiques ne lui a pas encore été décerné,
 alors qu'il mériterait un champ entier de médailles.
