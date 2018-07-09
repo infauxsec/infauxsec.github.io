@@ -32,4 +32,4 @@ d'un carton rouge.
 L'évènement rappelle de manière troublante un cas similaire, celui du célèbre
 Jean-Lennart, lors du hackathon pulseaudio de 2005. Le programmeur avait écopé
 d'un avertissement après un flagrant délit d'utilisation de son postérieur
-our écrire le code de `pavuctl`.
+pour écrire le code de `pavuctl`.
