@@ -25,7 +25,7 @@ Mais ces inquiétantes conséquences ne troublent pas Jean-Enzo le moins du mond
 *« La solution était pourtant évidente, N=1, mais je comprends très bien que ça ne soit pas à la portée de tous »*, nous déclare-t-il en sirotant un verre
 de pastis-grenadine. *« Mon prochain travail portera sur la factorisation des courbes elliptiques du second degré »*, continue-il comme s'il parlait à
 des experts que nous sommes loin d'être ; *« un simple calcul du discriminant donne une solution évidente. Quand ce sera terminé,
-je m'attaquerai à la conjecture *N = PN*, qui semble sensiblement plus sournoise.* » Une évidence pour cet enfant exceptionnel,
+je m'attaquerai à la conjecture __N = PN__, qui semble sensiblement plus sournoise.* » Une évidence pour cet enfant exceptionnel,
 alors que ses petits camarades commencent à peine à maîtriser l'art de la soustraction. Quoi qu'en disent les médisants, voilà qui rassure
 sur l'avenir de la nouvelle génération.
 

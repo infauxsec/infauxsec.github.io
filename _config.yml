@@ -13,16 +13,16 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: InFauxSec News
+title: Infauxsec News
 email: infauxsec@invalid
 description: >- 
   Le magazine de l'actualité francophone de la sécurité informatique.
 baseurl: "/" 
 url: "https://infauxsec.github.io"
-username: InFauxSec News
+username: Infauxsec News
 user_description: Le magazine de l'actualité francophone de la sécurité informatique.
 github_username:  infauxsec
-twitter_username: infauxsecnews
+twitter_username: infauxsec_news
 disqus_username:  infauxsecnews
 
 # Build settings

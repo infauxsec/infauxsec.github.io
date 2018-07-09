@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "InFauxSec fait ses premiers pas !"
+title: "Infauxsec fait ses premiers pas !"
 author: Jean-Kévin Acoeur
 image: "/assets/thumbs.jpg"
 tags: infauxsec
 category: meta
 twitter_text: infauxsec debarque
-introduction: InFauxSec, ce blog de qualité.
+introduction: Infauxsec, ce blog de qualité.
 ---
 
 Vous êtes-vous déja demandé pourquoi, comment, avec qui, où, dans quel but, par quel moyen ?
