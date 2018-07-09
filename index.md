@@ -3,7 +3,7 @@ layout: main
 ---
 
 <style>
-@media only screen {
+@media only screen (min-width:801px) {
   article {
     max-width: 20%;
   }
