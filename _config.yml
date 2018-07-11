@@ -24,6 +24,7 @@ user_description: Le magazine de l'actualité francophone de la sécurité infor
 github_username:  infauxsec
 twitter_username: infauxsec_news
 disqus_username:  infauxsecnews
+google_analytics: "UA-122089121-1"
 
 # Build settings
 markdown: kramdown
