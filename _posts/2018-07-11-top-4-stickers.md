@@ -58,9 +58,7 @@ il vous permettra de déclencher le protocole du même nom plus facilement.
 
 Idéal pour sympathiser avec toute la communauté.
 
-Petit bonus :
-
-## 5. Les fautes de goût à éviter absolument
+<h2 id="bonus-fautes-de-gout">5. Bonus : les fautes de goût à éviter absolument</h2>
 
 Les stickers Facebook, Google, Java et Oracle. Ceux-là ne vont objectivement
 bien avec rien, nous vous les déconseillons donc vivement.
