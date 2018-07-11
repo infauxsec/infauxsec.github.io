@@ -5,7 +5,7 @@ author: "Hans Gruber"
 image: "/assets/beach.jpeg"
 tags: ['mode', 'tendance', 'stickers']
 category: Mode
-twitter_text: "pour être le plus tendance sur la plage cet été"
+twitter_text: "pour être le plus tendance sur la plage cet été !"
 introduction: "Hans vous dit tout sur les stickers de l'été !"
 ---
 
