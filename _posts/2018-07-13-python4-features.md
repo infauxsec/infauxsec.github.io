@@ -5,7 +5,7 @@ author: "Jean-Kévin Acoeur"
 image: "/assets/python4.png"
 tags: ['python', 'code']
 category: code
-twitter_text: "Les nouveautés dans python 4"
+twitter_text: "Les nouveautés dans Python 4"
 introduction: "Une refonte intégrale du langage."
 ---
 
