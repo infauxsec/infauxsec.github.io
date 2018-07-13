@@ -3,7 +3,7 @@ layout: post
 title: "Un attentat à la fork bomb ôte la vie à 19 processus"
 author: Derek Tritra-Vershal
 image: "/assets/fork-bomb.png"
-tags: ['attentat', 'terrorisme', 'linux']
+tags: ['fait divers', 'linux']
 category: free software
 twitter_text: une fork bomb fait 19 morts au hackathon RedHat
 introduction: "« Le terroriste aurait crié “Allahu Archbar” »"
