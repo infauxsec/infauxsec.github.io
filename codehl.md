@@ -13,9 +13,22 @@ def pwn(x):
 ```
 
 {:.manimoule}
-```python
-import exploit.openssh
+```cpp
+class Intergalactique {
+    public:
+        int *x;
+}
+```
 
-def pwn(x):
-  x.pwn().repwn("lalala")
+```elisp
+(lisp 
+    (hackerz 
+        (are 
+            (concat "in da" 
+                    (+ 0 1337)
+                    "place"
+            )
+        )
+    )
+)
 ```
