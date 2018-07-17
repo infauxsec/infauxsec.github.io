@@ -1,3 +1,7 @@
+---
+style: "/assets/extra.css"
+---
+
 # Rien a voir ici, petit curieux
 
 {:.teletubby}
