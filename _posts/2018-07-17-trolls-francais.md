@@ -34,7 +34,7 @@ français.
 
 Un mélange presque esotérique de français et de québecois.
 
-## Quand un pro fromage suisse rencontre un pro vin italien
+## Quand un pro fromage suisse rencontre un anti vin italien
 
 **@fromagedenosmontagnes** retweete et mentionne beaucoup un certain
 **@vinussconi**, compte pourtant aux antipodes de ce qu'il représente ; en
