@@ -2,7 +2,7 @@
 layout: post
 title: "Dans les bas-fonds des réseaux de trolls sur Twitter"
 author: "Xi Prau"
-image: "/assets/trolls-francais/cocorico.png"
+image: "/assets/cocorico.jpg"
 tags: ['osint', 'troll', 'fromage']
 category: osint
 twitter_text: "dans les bas-fonds des réseaux de trolls sur Twitter"
