@@ -86,8 +86,7 @@ Markov afin de générer ses tweets :
 Les trolls repérés ont pour certains quelques millions de followers. Une
 métrique pertinente pour mesurer l'impact de ces trolls est d'utiliser le
 dernier de notre liste comme étalon : d'après
-[http://www.legorafi.fr/2018/07/16/le-gouvernement-profite-de-la-victoire-des-bleus-pour-faire-voter-la-retraite-a-85-ans-une-hausse-de-la-tva-de-50-et-labolition-de-la-securite-sociale/](un
-récent article du Gorafi), fer de lance des journaux d'analyse politique, les
+[un récent article du Gorafi](http://www.legorafi.fr/2018/07/16/le-gouvernement-profite-de-la-victoire-des-bleus-pour-faire-voter-la-retraite-a-85-ans-une-hausse-de-la-tva-de-50-et-labolition-de-la-securite-sociale/), fer de lance des journaux d'analyse politique, les
 acquis sociaux seraient en nette baisse, et ce principalement grâce à cette
 PSYOP.
 
