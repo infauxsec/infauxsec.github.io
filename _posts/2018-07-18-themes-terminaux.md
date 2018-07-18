@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Les couleurs les plus tendances= pour vos terminaux cet automne"
+title: "Les couleurs les plus trendy pour vos terminaux cet automne"
 author: "Hans Gruber"
 image: "/assets/terminal.jpg"
 tags: ['terminal', 'mode']

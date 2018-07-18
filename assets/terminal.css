@@ -17,11 +17,14 @@
 .esraymond .highlight .k { color: #ff0000; }
 .esraymond .highlight .nb { color: #ff0000; }
 .esraymond .highlight .m { color: #ff0000; }
+.esraymond .highlight .mi { color: #ff0000; }
 .esraymond .highlight .nf { color: #00a2ff; }
 .esraymond .highlight .n { color: #00a2ff; }
 
 
 .bluetouff .highlight .ch { color: #66d9ff; }
 .bluetouff .highlight .k { color: #66d9ef; }
-.bluetouff .highlight .nv { color: #d966ff; }
+.bluetouff .highlight .nv { color: #a966ff; }
 .bluetouff .highlight .s2 { color: #5f819d; }
+.bluetouff .highlight .nb { color: #5f819d; }
+.bluetouff .highlight .nt { color: #4040ff; }
