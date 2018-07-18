@@ -171,7 +171,7 @@ aussi bien que celle des américains.
 
 for SITE in $(cat sites-gouv-fr.txt)
 do
-    for p in $(wget -O "$SITE/robots.txt |grep 'Disallow:' |cut -f2)
+    for p in $(wget -O "$SITE/robots.txt" |grep 'Disallow:' |cut -f2)
     do
         wget -r "$SITE/$p"
     done
