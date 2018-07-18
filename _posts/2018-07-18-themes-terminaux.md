@@ -5,7 +5,7 @@ author: "Hans Gruber"
 image: "/assets/terminal.jpg"
 tags: ['terminal', 'mode']
 category: mode
-twitter_text: "Les #couleurs les plus #tendances pour vos #terminaux cet automne"
+twitter_text: "Les couleurs les plus tendances pour vos terminaux cet automne"
 introduction: "Adoptez le style de vos hackers préférés"
 style: "/assets/terminal.css"
 ---
