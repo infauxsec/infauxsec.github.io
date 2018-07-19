@@ -10,7 +10,7 @@ introduction: "La vulnérabilité daterait de juin 1989"
 ---
 
 Après Heartbleed, Shellshock, ou Meltdown, c'est le tour d'une nouvelle
-vulnérabilité de faire le tour d'Internet, avec un nom et un logo sexy.
+vulnérabilité de faire le tour d'Internet, avec un nom et un logo sexy[^2].
 Une preuve incontestable de son importance, s'il en est.
 
 L'identifiant officiel de cette vulnérabilité est PVE-2018-1337[^1], 
