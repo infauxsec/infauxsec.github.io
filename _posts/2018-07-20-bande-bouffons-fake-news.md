@@ -21,7 +21,7 @@ dans le monde de l'informatique, puisque comme chacun le sait, tout ce qui est
 écrit sur Internet est forcément vrai.
 
 Jean-Jean R. Cursif, expert en stylométrie à l'Université de Rochefourchat,
-nous donne son avis sur cette opération: *« Les articles sont d'une qualité 
+nous donne son avis sur cette opération : *« Les articles sont d'une qualité 
 journalistique exceptionelle, rédigés avec le plus grand soin,
 traitent de thèmes matures et importants, et font preuve d'un humour
 particulièrement raffiné et de bon goût. Tout laisse supposer que leurs auteurs
