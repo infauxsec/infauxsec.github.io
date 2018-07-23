@@ -57,5 +57,4 @@ similaires.
 
 Jusqu'ici, l'Élysée n'a pas souhaité commenter l'incident.
 
-[^1]: dans le contexte de cette communauté, **DDoS** et **hacker** sont
-considérés comme synonymes.
+[^1]: dans le contexte de cette communauté, **DDoS** et **hacker** sont considérés comme synonymes.
