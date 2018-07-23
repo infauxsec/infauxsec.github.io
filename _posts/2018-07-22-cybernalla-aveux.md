@@ -2,7 +2,7 @@
 layout: post
 title: "Jean-Alexandre Cyber-Nalla : une nouvelle vidéo de cyber-violence fait polémique"
 author: "Jess Socks"
-image: "/assets/benalla-aveux/benallhack.jpg"
+image: "/assets/benalla-aveux/benallhack.png"
 tags: ['violence', 'jawad']
 category: politique
 twitter_text: "nouvelles révélations dans l'affaire Cyber-Nalla"
@@ -37,7 +37,7 @@ Ci-dessous, un extrait d'un hacker participant aux opérations :
 Dans un extrait ultérieur de la vidéo, il est révélé que sous sa cagoule, le
 hacker n'est autre que Jean-Alexandre Cyber-Nalla.
 
-![Cyber-Nallhack](/assets/benalla-aveux/benallhack.jpg)
+![Cyber-Nallhack](/assets/benalla-aveux/benallhack.png)
 
 ## « On m'avait mis une cagoule »
 
