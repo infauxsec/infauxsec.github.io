@@ -142,11 +142,9 @@ pour un gros inculte.
 /*
 fn say_hello(name: &str) -> str {
     
-    /*
-    let hello = "Hello, ";
+    //let hello = "Hello, ";
 
-    let helloworld = hello + name; // Compile error cannot concatenate two str ? wtf
-    */
+    //let helloworld = hello + name; // Compile error cannot concatenate two str ? wtf
 
     let hello = "Hello, ".to_owned(); // what ?? why ?
     let helloworld = hello + world;
