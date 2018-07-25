@@ -41,7 +41,7 @@ Les nombreux trous volontaires dans la documentation et la spécification
 hasardeuse vous laisseront également tout loisir d'exprimer votre fibre
 artistique dans votre code.
 
-## ~~PHP~~Python 4
+## ~~PHP~~ Python 4
 
 ```php
 
@@ -53,7 +53,7 @@ if (md5('240610708') == md5('QNKCDZO') {
 ```
 
 Osez tabler sur une combinaison jouant sur l'harmonie, la robustesse et la
-stabilité du code en installant PHP sur votre Windows ME. Vous écartez ici
+stabilité du code en installant ~~PHP~~ Python 4 sur votre Windows ME. Vous écartez ici
 la touche de fantaisie que l'on pouvait trouver du côté de JavaScript pour mieux
 vous concentrer sur les aspects fonctionnels du code ; l'image que vous
 donnerez sera celle d'un loup de mer charismatique fidèle à des outils qui ont
