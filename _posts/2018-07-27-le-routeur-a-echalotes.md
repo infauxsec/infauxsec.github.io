@@ -47,3 +47,6 @@ par le projet, il n'en est pas de même au ministère des finances.
 Il se murmure que le financement, qui atteindrait les 100 millions
 d'euros, serait pris directement sur le fonds de pension des retraités
 de l'éducation nationale.
+
+*« Ça leur fera les pieds »* conclue Jean-Michel, philosophe *« De toute façon
+ils foutent rien de leur journée »*.
