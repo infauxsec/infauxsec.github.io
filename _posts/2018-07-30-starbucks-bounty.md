@@ -37,7 +37,7 @@ mériter sa récompense :
 
 *« Je suis tout d'abord parvenu à contrôler toute l'infrastructure interne de
 Starbucks en exploitant une SSRF dans le CSS de la page d'accueil de
-*[https://www.starbucks.com](https://www.starbucks.com) *et j'ai fait tomber la
+[https://www.starbucks.com](https://www.starbucks.com) et j'ai fait tomber la
 base de données de production. Malheureusement, cette vulnérabilité était
 hors scope. Après ça, j'ai utilisé mon accès à leur système pour deface les
 fiches de paye des employés en y écrivant "Hacked by Jean-Boon" à la place
