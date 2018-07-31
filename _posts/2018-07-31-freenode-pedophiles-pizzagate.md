@@ -53,4 +53,4 @@ dans leur [censuré] de petits [censuré]. »*
 
 Nous ne manquerons pas de vous tenir informés des développements de cette affaire !
 
-[^1] Prénoms fictifs
+[^1]: Prénoms fictifs
