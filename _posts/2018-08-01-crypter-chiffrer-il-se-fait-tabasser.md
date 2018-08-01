@@ -30,6 +30,9 @@ visage, qui lui endommage le nerf optique. D'après les médecins,
 il risque de ne jamais récupérer complètement la vue.
 
 Deux membres présumés du groupe, connus uniquement sous les pseudonymes
-d'Alice et Bob, ont été écroués ce matin.
+d'Alice et Bob, ont été écroués ce matin ; l'inspecteur Eve, chargée de
+l'affaire, n'a pas encore réussi à déchiffrer leurs élucubrations. Toutefois,
+il ne fait aucun doute que les talents uniques de cette experte en cryptographie
+permettront d'élucider le mystère.
 
 [^1]: Prénom fictif
