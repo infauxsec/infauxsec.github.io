@@ -33,6 +33,6 @@ Deux membres présumés du groupe, connus uniquement sous les pseudonymes
 d'Alice et Bob, ont été écroués ce matin ; l'inspecteur Eve, chargée de
 l'affaire, n'a pas encore réussi à déchiffrer leurs élucubrations. Toutefois,
 il ne fait aucun doute que les talents uniques de cette experte en cryptographie
-permettront d'élucider le mystère.
+permettront d'appréhender les coupables.
 
 [^1]: Prénom fictif
