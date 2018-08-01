@@ -35,4 +35,9 @@ l'affaire, n'a pas encore réussi à déchiffrer leurs élucubrations. Toutefois
 il ne fait aucun doute que les talents uniques de cette experte en cryptographie
 permettront d'appréhender les coupables.
 
+### Crédits
+
+Inspiration tirée d'une idée de
+534d33d1892a920d5d5fe5a506aad8b93d789187b1c2c602b1fb36dcdbae9790.
+
 [^1]: Prénom fictif
