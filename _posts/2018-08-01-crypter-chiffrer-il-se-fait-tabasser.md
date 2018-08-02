@@ -28,6 +28,9 @@ en rixe généralisée.
 Pendant l'échauffourrée, Jean-Daniel reçoit un violent coup de clé au
 visage, qui lui endommage le nerf optique. D'après les médecins,
 il risque de ne jamais récupérer complètement la vue.
+*« C'était une clé symétrique d'au moins 256 bits »*, témoigne un
+passant, choqué. *« Des trucs pareils, je ne comprends pas comment
+ça peut être légal pour le particulier, en France, en 2018. »*
 
 Deux membres présumés du groupe, connus uniquement sous les pseudonymes
 d'Alice et Bob, ont été écroués ce matin ; l'inspecteur Eve, chargée de
