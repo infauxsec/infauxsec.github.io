@@ -11,7 +11,7 @@ introduction: "Retour aux origines du plus gros clash des dernières années"
 
 Nouvel incident de cette violente semaine : alors qu'ils étaient tous deux en
 route vers la Black Hat USA afin d'y délivrer des talks sur leurs derniers
-exploits, une rixe a éclatée entre Micode, Zataz et tout leur entourage à
+exploits, une rixe a éclaté entre Micode, Zataz et tout leur entourage à
 l'aéroport Charles de Gaulle.
 
 ![Zataz provoque Micode](/assets/altercation-micode-zataz/zataz-mma.png)
