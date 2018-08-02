@@ -23,7 +23,7 @@ permis aux autorités de gérer la crise avec rapidité et efficacité, évitant
 réelles blessures chez tous les protagonistes.
 
 Si certains crient à la manipulation médiatique pour créer le buzz, la rédaction
-d'Infauxsec News ne souhaite pas prendre partie à ce sujet. Cet article servira
+d'Infauxsec News ne souhaite pas prendre parti à ce sujet. Cet article servira
 donc à établir un rapport factuel sur les origines du conflit en les exhumant
 des méandres de Twitter.
 
