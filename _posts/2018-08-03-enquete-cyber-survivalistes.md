@@ -45,8 +45,7 @@ qui randomise XML. L'Internet des Choses fera que chaque objet communiquant
 aura son propre blog. Mais tout ceci importe peu, au final : l'important
 est d'aller vers une récursivité complexe, et vers des architectures
 non fractales »*, nous explique-t-il, fiévreux, avant de conclure :
-*« Si vous voulez comprendre, une seule chose à faire: regardez 
-*Pierrot le Fou*, le film de Jean-Luc Godard. »*
+*« Si vous voulez comprendre, une seule chose à faire : regardez* Pierrot le Fou*, le film de Jean-Luc Godard. »*
 
 Conquis par la sympathie de Jean-Michel (ou soucieux de ne pas le contrarier,
 au fond, peu importe), nous acceptons de visiter sa cabane, une cage de Faraday,
