@@ -67,8 +67,8 @@ grâce à une RCE dans le récepteur GPS des iPhones.
 ### Un espoir pour l'avenir
 
 Heureusement, les ingénieurs de Cisco travaillent déja à
-la mise en place d'une mesure de mitigation: une nouvelle
-technologie permettant d'encapsuler du traffic TCP à
+la mise en place d'une mesure ~~de mitigation~~d'atténuation :
+une nouvelle technologie permettant d'encapsuler du traffic TCP à
 l'intérieur de paquets UDP, qui fonctionnent sans connexion.
 Ils devraient donc être immunisés contre l'attaque de Peer.
 Toutefois, aucune estimation n'est encore disponible pour
