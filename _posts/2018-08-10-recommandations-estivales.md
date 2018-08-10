@@ -2,7 +2,7 @@
 layout: post
 title: "Les recommandations de l'ANSSI pour les vacances d'été"
 author: "Jean-Lewis Basquette"
-image: "/assets/passport.jpg"
+image: "/assets/passeport.png"
 tags: ['recommandations', 'ANSSI']
 category: societe
 twitter_text: "Les recommandations de l'ANSSI pour les vacances."
@@ -46,7 +46,7 @@ disposition par votre hôtel). Cela n'est que plus vrai si votre entreprise ou
 organisation pratique le AVEC (Apporter Votre Équipement de Communication) 
 et que votre ordinateur personnel est aussi votre outil de travail. 
 Si vous ne disposez d'aucune alternative, vous devez impérativement utiliser 
-un réseau privé virtuel comme Le Routeur Echalotte[^1]. Attention, les requêtes
+un réseau privé virtuel comme [Le Routeur à Echalotes][1]. Attention, les requêtes
 à destination des systèmes de noms de domaines doivent également être routées 
 dans le réseau privé virtuel (en cas de doute sur ce dernier point, 
 n'hésitez pas à consulter vos règles iptable). »*
@@ -68,5 +68,10 @@ Effectuez quotidiennement le maintient en condition de sécurité de vos
 applicatifs. N’utilisez pas de câbles VGA, sensibles aux attaques TEMPEST. 
 Enfin, quelle que soit la tentation, laissez selinux en mode application. »*
 
-[^1]: Voir notre article sur le sujet, NDLR
+
+### Crédits
+
+Un grand merci au célèbre journaliste Jean-Lewis Basquette pour sa contribution !
+
+[1]: https://infauxsec.github.io/anonymat/2018/07/27/le-routeur-a-echalotes.html
 
