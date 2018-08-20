@@ -22,7 +22,7 @@ L'attribution exacte de ce malware reste controversée. Selon les premières
 estimations, le niveau de complexité du malware indique certainement
 le financement par un état-nation, possiblement un pays impliqué dans
 un complot de domination féline mondiale. Mais certains posts retrouvés
-sur les forms de jeuxvideo.com indiquent une piste alternative : l'auteur
+sur les forums de jeuxvideo.com indiquent une piste alternative : l'auteur
 serait un jeune désoeuvré d'environ 15 ans, qui aurait tenté de créer un
 botnet pour s'en prendre aux serveurs du Club Penguin, qui l'aurait injustement
 banni.
