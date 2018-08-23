@@ -44,9 +44,9 @@ Infauxsec : *Euh, je suis confus.*
 Jean-Alain : *Ah, et ça fait longtemps que vous êtes confus ?*  
 Infauxsec : *… D'accord, combien font 2 + 2 ?*  
 Jean-Alain : *Votre personnage est-il Mariah Carey ?*  
-Infauxsec : *… Akinator ?*
+Infauxsec : *… Akinator ?*  
 Jean-Alain : *Ta gueule. SIGSEGV.*  
-Infauxsec : *Pardon ?*
+Infauxsec : *Pardon ?*  
 Jean-Alain : *Ta gueule. SIGSEGV.*  
 Infauxsec : *Mais enfin monsieur, restez correct !*  
 Jean-Alain : *Ta gueule. SIGSEGV. J'aime l'ananas sur la pizza.*  
