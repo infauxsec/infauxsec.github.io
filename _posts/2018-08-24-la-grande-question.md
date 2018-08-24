@@ -28,7 +28,8 @@ d'arriver à la conclusion qu'il était finalement temps de nous dévoiler. Nous
 aurions aimé pouvoir rester anonymes plus longtemps, mais hélas, la plupart de
 nos membres sont déjà soupçonnés d'appartenir à notre rédaction. Par conséquent,
 nous avons décidé d'être beaux joueurs et de dévoiler la liste de tous nos
-collaborateurs.
+collaborateurs. (*Edit : le tableau ne s'affiche pas forcément bien en vertical
+sur téléphone.*)
 
 | Pseudo | Poste |
 | ---    | ---   |
