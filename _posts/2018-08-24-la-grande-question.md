@@ -56,7 +56,7 @@ sur téléphone.*)
 | Sh0ck | Stagiaire café/photocopieuse, neveu du directeur financier |
 | ShrewkRoot | Responsable mauvais jeux de mots |
 | SIben | Correspondant en prison (*ex-responsable développement de Python 4*) |
-| Swithack | Responsable francophonie des articles |
+| SwitHak | Responsable francophonie des articles |
 | Th3_l5D | Rédacteur des articles techniques en partenariat avec Geluchat, responsable des montages (*surnommé « maître Gimp »*) |
 | The Jackal | Stagiaire café/photocopieuse, neveu du directeur financier |
 | TouitTouit | Responsable Retouit |
