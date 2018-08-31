@@ -48,7 +48,7 @@ Nous touchons là encore à un achat primordial : votre enfant se doit de possé
 les droits sur les musiques qu'il utilisera pour ses défacements afin de pouvoir
 pratiquer son sport favori en toute légalité. Après sondage chez les 10-14 ans
 de jeuxvideo.com, Infauxsec News a découvert que les OST de Dragon Ball Z, une
-fois couplés à une cagoule YSL, donnaient les meilleurs chances à votre enfant
+fois couplés à une cagoule YSL, donnaient les meilleures chances à votre enfant
 de devenir le meilleur seigneur bord[^1] de la cour de récréation.
 
 ### Quelques codes Allopass
