@@ -4,7 +4,7 @@ title: "La rentrée des skidz"
 author: "Jess Socks"
 image: "/assets/rentree-skidz.png"
 tags: ['skidz', 'rentree', 'YSL']
-category: culture
+category: skidz
 twitter_text: "Infauxsec News revient sur le matériel indispensable pour la rentrée pour votre progéniture"
 introduction: "Infauxsec News revient sur les achats indispensables de la rentrée"
 ---
