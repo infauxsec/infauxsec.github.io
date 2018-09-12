@@ -77,7 +77,7 @@ de skidz. Par contre fais attention, on a mis les touches juste à côté de la
 touche entrée ! »*
 
 *« Bon là c'est pour le style du laptop, très important. Faut bien que les gens
-comprennent à qui ils ont à faire quand ils voient ta machine, donc on a mis
+comprennent à qui ils ont affaire quand ils voient ta machine, donc on a mis
 un petit sticker "XSS God", un "GitHub Education Pack" pour remercier nos
 sponsors, un "GuessMaster" écrit en Indien et le clou de notre collection : le
 sticker "C'est çui skiddie qui l'est". Avec ça, tout le monde sera bien obligé
