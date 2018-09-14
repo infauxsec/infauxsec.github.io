@@ -34,22 +34,22 @@ Pourtant, au fond, Jean-Alain n'est qu'un humain comme les autres ; il met de
 l'ananas sur sa pizza, joue à League of Legends, code en PHP et vote Front
 National. Intriguée, la rédaction d'Infauxsec est allée l'interroger.
 
-Infauxsec : *Bonjour, Jean-Alain, comment ça va ?*
-Jean-Alain : *Hein, qu'est-ce que vous dites ?*
-Infauxsec : *Je vous demande comment vous allez.*
-Jean-Alain : *Ah, et ça fait longtemps que vous demandez comment nous allons ?*
-Infauxsec : *Quoi ? Mais je… non, pas vraiment.*
-Jean-Alain : *C'est une question importante pour vous ?*
-Infauxsec : *Euh, je suis confus.*
-Jean-Alain : *Ah, et ça fait longtemps que vous êtes confus ?*
-Infauxsec : *… D'accord, combien font 2 + 2 ?*
-Jean-Alain : *Votre personnage est-il Mariah Carey ?*
-Infauxsec : *… Akinator ?*
-Jean-Alain : *Ta gueule. SIGSEGV.*
-Infauxsec : *Pardon ?*
-Jean-Alain : *Ta gueule. SIGSEGV.*
-Infauxsec : *Mais enfin monsieur, restez correct !*
-Jean-Alain : *Ta gueule. SIGSEGV. J'aime l'ananas sur la pizza.*
+Infauxsec : *Bonjour, Jean-Alain, comment ça va ?*  
+Jean-Alain : *Hein, qu'est-ce que vous dites ?*  
+Infauxsec : *Je vous demande comment vous allez.*  
+Jean-Alain : *Ah, et ça fait longtemps que vous demandez comment nous allons ?*  
+Infauxsec : *Quoi ? Mais je… non, pas vraiment.*  
+Jean-Alain : *C'est une question importante pour vous ?*  
+Infauxsec : *Euh, je suis confus.*  
+Jean-Alain : *Ah, et ça fait longtemps que vous êtes confus ?*  
+Infauxsec : *… D'accord, combien font 2 + 2 ?*  
+Jean-Alain : *Votre personnage est-il Mariah Carey ?*  
+Infauxsec : *… Akinator ?*  
+Jean-Alain : *Ta gueule. SIGSEGV.*  
+Infauxsec : *Pardon ?*  
+Jean-Alain : *Ta gueule. SIGSEGV.*  
+Infauxsec : *Mais enfin monsieur, restez correct !*  
+Jean-Alain : *Ta gueule. SIGSEGV. J'aime l'ananas sur la pizza.*  
 
 
 [^1]: Prénom fictif
