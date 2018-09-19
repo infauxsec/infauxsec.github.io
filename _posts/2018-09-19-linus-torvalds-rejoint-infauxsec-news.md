@@ -111,7 +111,7 @@ personnalité positive et "Winner". Mon produit s'appellera donc "Winux". D'un
 point de vue plus personnel, je réfléchis également à me faire un tatouage de
 papillon en bas du dos pour symboliser ma métamorphose. »*
 
-Toute la rédaction d'Infauxsec News est honorée de pouvoir accompagner ~~L~~ Winus
+Toute la rédaction d'Infauxsec News est honorée de pouvoir accompagner Winus
 dans cette nouvelle aventure, qui devrait marquer une nouvelle ère dans le monde
 de l'informatique.
 
