@@ -48,7 +48,7 @@ c'est pourquoi j'ai opté pour l'utilisation de NTFS. »*
 *« Les utilitaires d'administration système n'ont pas toujours eu des noms
 aisés à retenir dans les distributions Linux. C'est pourquoi je vais faire
 primer la cohérence cette fois-ci en renommant les outils maladroitement
-nommés. Par exemple, *`ifconfig` *deviendra *`ipconfig`*. »*
+nommés. Par exemple,* `ifconfig` *deviendra* `ipconfig`*. »*
 
 ## Fermeture du code source
 
