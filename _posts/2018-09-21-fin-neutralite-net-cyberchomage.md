@@ -4,7 +4,7 @@ title: "Une proposition de loi pour mettre fin à la neutralité du net françai
 author: Ella Prono
 image: "/assets/cyberchomage.png"
 tags: ['prostitution', 'linkedin', 'cyberchômage']
-category: écologie
+category: emploi
 twitter_text: "Le nouveau fer de lance d'Emmanuel Macron dans son combat contre
 le cyberchômage"
 introduction: "Emmanuel Macron veut éradiquer le cyberchômage"
