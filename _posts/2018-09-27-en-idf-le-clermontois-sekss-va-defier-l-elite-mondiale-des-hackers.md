@@ -65,7 +65,7 @@ près de Clermont-Ferrand.
 sociétés »* estime SeksS. *« Pour les jeunes qui voudraient s’y lancer, ça
 représente de formidables opportunités d’emploi et de carrière. Les besoins
 sont énormes et je regrette qu’il n’existe pas encore assez de formations en
-France. »*
+Auvergne. »*
 
 Lui, outre sa licence d'art, s’est formé sur le tas en passant des milliers
 d’heures à apprendre le code et à progresser. Aussi en utilisant le Mariana
