@@ -5,7 +5,7 @@ author: Derek Toritra-Vershal
 image: "/assets/sekss.png"
 tags: ['machinelearning', 'linkedin', 'disruptif', 'bugbounty', 'ouestfrance']
 category: elite
-twitter_text: "En IDF, le Clermontois SeksS va défier l’élite mondiale des hackers !"
+twitter_text: "En IDF, le Clermontois SeksS va défier l’élite auvergnate des hackers !"
 introduction: "Le plus grand hacker auvergnat SeksS"
 ---
 
