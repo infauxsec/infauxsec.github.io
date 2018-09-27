@@ -36,7 +36,7 @@ incompréhensibles pour le commun des mortels.
 ## Au glaive de traverser les boucliers
 
 *« Il va vraiment falloir que je travaille dur pour m’y préparer et affronter
-ces adversaires venus des quatre coins de la planète »* assure SeksS. En face
+ces adversaires venus des quatre coins de la région »* assure SeksS. En face
 de lui il aura des pointures. Un challenge qui le motive encore plus. *« Le but
 de cette compétition sera de tester la sécurité de bon nombre d’applications de
 notre quotidien et aussi celle de grosses entreprises régionales. C’est ce que
