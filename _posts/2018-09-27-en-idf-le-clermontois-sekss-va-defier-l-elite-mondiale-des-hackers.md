@@ -55,7 +55,7 @@ armées. Mais SeksS n’a pas besoin de traverser la route pour trouver un emplo
 
 Ce sont les entreprises ou les agences départementales qui le sollicitent et
 sont prêtes à lui dérouler le tapis rouge. *« Pour l’instant, je n’envisage pas
-de quitter l'Auvergne. Je m’y sens bien »* déclare-t-il. Il travaille chez
+de quitter Clermont-Ferrand. Je m’y sens bien »* déclare-t-il. Il travaille chez
 Capgemini, entreprise spécialisée dans la sécurité informatique installée
 près de Clermont-Ferrand.
 
