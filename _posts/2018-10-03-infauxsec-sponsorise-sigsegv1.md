@@ -104,4 +104,9 @@ attendent lors de SIGSEGv1, le 1<sup>er</sup> décembre.
 
 Et vous, êtes-vous déjà excités par SIGSEGv1 ?
 
+## Crédits
+
+Sur une idée de
+a95a1bfaf634abda5b0d6aa073339036f26df3df19593ca913e247fbe040b0a4.
+
 [^1]: traduction officielle de l'ANSSI de l'anglais *« underground »*.
