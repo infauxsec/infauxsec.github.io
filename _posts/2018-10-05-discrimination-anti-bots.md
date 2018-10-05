@@ -44,6 +44,9 @@ croyances religieuses minoritaires comme EDITOR=vim dans l'environnement. Puis o
 la [couleur de leur noeud][2], ou de l'orientation de leur pile, et vous allez voir que tout ça va finir comme sous
 Vichy, ou toutes les AI seront enfermées dans des containers de concentration. »*
 
+Un futur qui, assurément, donne froid dans le dos. Espérons que le bon sens et la générosité humaine triompheront de
+la machine bureaucratique. Et vous, êtes-vous prêts a cacher une IA dans votre cave en attendant des jours meilleurs ?
+
 
 [1]: http://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201720180SB1001
 [2]: https://fr.wikipedia.org/wiki/Arbre_bicolore
