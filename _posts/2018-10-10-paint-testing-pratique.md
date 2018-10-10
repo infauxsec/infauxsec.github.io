@@ -54,7 +54,7 @@ donc le code d'un `bonjour monde`[^2] en Piet.
 
 Jean-Vincent nous explique maintenant sa technique pour découvrir des
 érodés, ces [fameuses failles informatiques utilisées par les pirates
-initiés][https://twitter.com/mynameisv__/status/1040231953625214977].
+initiés](https://twitter.com/mynameisv__/status/1040231953625214977).
 
 On commence avec un screenshot classique d'un environnement Windows 10 :
 
