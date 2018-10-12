@@ -19,11 +19,11 @@ qui menace la sécurité nationale.
 
 Il faut dire que Jean-Maurice n'en est pas à son coup d'essai ; c'est à lui
 que revient, entre autres, l'honneur d'avoir organisé
-[l'arrestation d'un dangereux cyberterroriste][http://infonie.org/DCRI.OneYearLater.html] en janvier 2012. Ce sinistre individu aurait ainsi permis a un groupe
+[l'arrestation d'un dangereux cyberterroriste](http://infonie.org/DCRI.OneYearLater.html) en janvier 2012. Ce sinistre individu aurait ainsi permis a un groupe
 de dangereux hackers en cagoules de discuter en toute impunité.
 
 C'est Jean-Maurice également qui, toujours en 2012, met le grappin sur
-le sinistre [Olivier Laurelli][https://bluetouff.com]. Ce dangereux pirate,
+le sinistre [Olivier Laurelli](https://bluetouff.com). Ce dangereux pirate,
 maître dans l'art de la militarisation des moteurs de recherche, aurait ainsi
 volé plusieurs gigaoctets de données à une agence gouvernementale. A notre
 connaissance, il n'aurait d'ailleurs jamais rendu ces données volées.
@@ -47,7 +47,7 @@ dont il tient absolument à préserver l'identité. Nous ne la mentionnerons que
 par son nom de code : le Moyeu des Cons.
 
 D'une manière ou d'une autre, cette source réussira a obtenir le [code source du
-malware Chmod][https://github.com/coreutils/coreutils/blob/master/src/chmod.c].
+malware Chmod](https://github.com/coreutils/coreutils/blob/master/src/chmod.c).
 Les collaborateurs de Jean-Maurice se mettent alors au travail ; et deux heures
 plus tard, juste avant la pause déjeuner (11h30), le verdict tombe : l'identité
 de l'auteur est connue. Comme la plupart des hackers, dont l'égo est
