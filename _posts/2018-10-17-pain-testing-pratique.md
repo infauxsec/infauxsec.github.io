@@ -65,7 +65,7 @@ Un bon cookie contient des pépites de chocolat, mais en aucun cas des raisins.
 
 ## Contourner les pare-feux
 
-*« Là on touche un peu aux arcanes les plus secrètes du métier *» nous annonce
+*« Là on touche un peu aux arcanes les plus secrètes du métier »* nous annonce
 Jean-Touffe *« mais nous avons une technique fiable nous permettant de franchir
 n'importe quel pare-feu. C'est en fait très simple : on fait comme quand on a
 mangé un plat un peu trop épicé. Un bout de pain trempé dans du lait fait des
