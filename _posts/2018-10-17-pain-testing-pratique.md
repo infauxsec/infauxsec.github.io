@@ -102,7 +102,7 @@ pain-testeurs allemands en ayant recours à la cryptographie à tresses. »*
 *« L'information, c'est le pouvoir. Souvent, des informations confidentielles
 mais critiques se retrouvent dans la nature sans que personne ne le remarque,
 car elles sont noyées dans la masse. Un bon-pain testeur doit s'attendre à
-passer beaucoup de temps à éplucher couche par couche le mille-feuilles
+passer beaucoup de temps à éplucher couche par couche le mille-feuille
 logiciel du système auquel il s'attaque. »*
 
 Pour illustrer son propos, Jean-Touffe nous a fourni une image très prisée du
