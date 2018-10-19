@@ -58,3 +58,8 @@ Complot orchestré par une police politique ou non, on ne peut nier la différen
 de procédure par rapport à l'affaire Cybernalla de cette année, où le suspect
 avait pu délivrer aux autorités un vieil ACER reconditionné plutôt que sa
 véritable machine.
+
+## Crédits
+
+D'après une idée de
+2ca1e70fb57e3f3c02cc4bbeda10423fade0d2a7f18bffaee270a214f8970dc4.
