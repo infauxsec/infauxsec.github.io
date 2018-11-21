@@ -26,15 +26,16 @@ Mouvement des DDoSeurs de France, NDLR). Le mouvement s'est ensuite étendu lors
 colère ont décidé d'empoisonner les tables BGP pour ralentir l'accès a YouTube.
 
 Cette initiative attire la foudre des représentants du gouvernement. Marie-Aurélie,
-attachée au ministère du pwnage et de la culture noob, tente de nous expliquer sa positon.
+attachée au ministère du pwnage et de la culture noob, tente de nous expliquer sa position.
+
 *« Leur contestation est vouée à l'échec pour plusieurs raisons. D'abord, l'augmentation du prix
-du bit à pour cause principale la*
+du bit a pour cause principale la*
 [pénurie globale de bits 1](https://infauxsec.github.io/economie/2018/08/09/penurie-de-bits-1-en-2019.html),
 *un problème qui n'est pas restreint à la France et sur lequel le gouverment actuel peinerait à agir.
 Ensuite, nous avons des problèmes franchement plus sérieux sur les bras. Pensez par exemple au prix
 du tabac à rouler, ou à l'épineuse question des mignons chatons qui meurent chaque fois que quelqu'un
 écrit un nouveau framework JavaScript. Mais le plus grave est certainement le prix de l'encre d'imprimante.
-Vous allez voir qu'a force de fabriquer leurs tracts de cagoules, ces guignols vont déstabiliser le marché
+Vous allez voir qu'à force de fabriquer leurs tracts de cagoules, ces guignols vont déstabiliser le marché
 de l'encre jaune et pénaliser la croissance économique. »*
 
 Malheureusement, la récupération politique ne s'est pas faite attendre, et nos journalistes sur le terrain
