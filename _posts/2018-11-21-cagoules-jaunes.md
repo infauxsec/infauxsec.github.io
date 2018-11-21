@@ -39,7 +39,9 @@ de l'encre jaune et pénaliser la croissance économique. »*
 
 Malheureusement, la récupération politique ne s'est pas faite attendre, et nos journalistes sur le terrain
 ont déja pu observer de multiples dérives racistes, homophobes et violentes chez les manifestants : plusieurs
-DDoS contre des sites pornographiques spécialisés ont été signalés par Cloudflare. Jean-Félix s'est immédiatement
+DDoS contre des sites pornographiques spécialisés ont été signalés par Cloudflare. Dans la foulée, Cloudflare
+aurait accidentellement bloqué le dortoir entier d'un pensionnat de niveau secondaire, privant 42
+innocents écoliers de leur accès à leurs vidéos de vacances préférées. Jean-Félix s'est immédiatement
 désolidarisé des auteurs en dénoncant l'abjection de ces actes haineux.
 
 Et vous, que pensez-vous de ce mouvement contestataire ? Dites-le nous en commentaire !
