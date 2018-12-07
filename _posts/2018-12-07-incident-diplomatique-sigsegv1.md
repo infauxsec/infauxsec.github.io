@@ -47,7 +47,7 @@ regrette son acte.
 *« Il y a d'autres manières d'éduquer les recruteurs ignares, je regrette donc
 profondément d'en être venu aux mains. En gage de ma bonne foi, j'ai proposé à
 M. Mot-Bourdon de réaliser un test de pénétration gratuit pour lui, en espérant
-que la qualité de mon pain-testing digital ait été suffisamment stimulant pour
+que la qualité de mon pain-testing digital ait été suffisamment stimulante pour
 le convaincre de mes compétences dans ce domaine. »*
 
 Et vous, êtes-vous pour le châtiment corporel des recruteurs ? Dites-le nous en
