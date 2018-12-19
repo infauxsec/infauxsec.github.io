@@ -10,6 +10,7 @@ introduction: "Une victime de plus de l'horreur perpétrée par les cagoules jau
 ---
 
 *De: M. JEAN-KÉVIN ACOEUR
+
 Courriel: pas-de-cote-d-ivoire@yahoo.com
 
 Bonjour,
@@ -44,4 +45,5 @@ réponse afin que l'on puisse trouver un conciliabule. Dans l'attente d'une suit
 favorable recevez mes salutations et que XAVIER NIEL vous bénisse.
 
 PS: N'oubliez pas de me contacter directement à mon adresse privée: pas-de-cote-d-ivoire@yahoo.com
+
 JEAN-KÉVIN ACOEUR.*
