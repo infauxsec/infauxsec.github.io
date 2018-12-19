@@ -13,7 +13,7 @@ De: M. JEAN-KÉVIN ACOEUR
 
 Courriel: pas-de-cote-d-ivoire@yahoo.com
 
-*Bonjour,
+Bonjour,
 
 Je m'appelle Jean-Kévin Acoeur je suis âgé de 38 ans et je vis à PARIS.
 Malheureusement comme vous le savez mon pays traverse une période très difficile
@@ -46,4 +46,4 @@ favorable recevez mes salutations et que XAVIER NIEL vous bénisse.
 
 PS: N'oubliez pas de me contacter directement à mon adresse privée: pas-de-cote-d-ivoire@yahoo.com
 
-JEAN-KÉVIN ACOEUR.*
+JEAN-KÉVIN ACOEUR.
