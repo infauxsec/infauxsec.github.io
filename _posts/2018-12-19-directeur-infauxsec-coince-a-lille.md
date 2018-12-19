@@ -9,11 +9,11 @@ twitter_text: "Un appel à l'aide d'un homme qui vous veut du bien"
 introduction: "Une victime de plus de l'horreur perpétrée par les cagoules jaunes"
 ---
 
-*De: M. JEAN-KÉVIN ACOEUR
+De: M. JEAN-KÉVIN ACOEUR
 
 Courriel: pas-de-cote-d-ivoire@yahoo.com
 
-Bonjour,
+*Bonjour,
 
 Je m'appelle Jean-Kévin Acoeur je suis âgé de 38 ans et je vis à PARIS.
 Malheureusement comme vous le savez mon pays traverse une période très difficile
