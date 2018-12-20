@@ -30,7 +30,7 @@ but de prendre tout ce qu'il avait comme document administratif, j'ai découvert
 le certificat de dépôt SIGNÉ AVEC LA CLÉ PGP DE L'ENSIBS pour mon père. Une fois
 arrivé à Paris, j'ai essayé de vérifier la validité de ce document.
 
-Le directeur de l'ENSIBS M. ALAN MARREC m'a confirmé l'existence de ce WALLET
+Le directeur de l'ENSIBS M. JEAN MHACKI m'a confirmé l'existence de ce WALLET
 dans leur établissement. Hélas en allant récupérer le WALLET j'ai pris le
 mauvais train et me suis retrouvé à LILLE où la situation est incertaine.
 
