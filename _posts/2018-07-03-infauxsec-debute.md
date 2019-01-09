@@ -33,6 +33,5 @@ passionnants et passionnés. Découvrez notre équipe de cracks en sécurité !
   
 ### Support
   - Hans Gruber, Graphiste
-  - Ella Prono, stagiaire SSTIC
-
-
+  - ~~Ella Prono, stagiaire SSTIC~~ (KIA)
+  - Jean-Mohamed Al-Auvergni, stagiaire shao1337
