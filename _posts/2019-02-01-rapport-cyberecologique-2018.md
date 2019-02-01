@@ -7,7 +7,7 @@ tags: ['npm', 'garbage', 'systemd', 'fancybear', 'numeric']
 category: "écologie"
 twitter_text: "Exposition de la nécessité pressante d'une prise de conscience collective"
 introduction: "Des chiffres alarmants présentés par Gr33nP34c3"
---
+---
 
 Le rapport cyber-environnemental du dernier semestre 2018 a été publié ce matin
 par Gr33nP34ce, fameuse ONG dédiée à la protection du cyber-environnement.
