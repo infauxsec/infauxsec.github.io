@@ -99,4 +99,4 @@ de son Macbook.
 
 *(À suivre…)*
 
-[^1] Moderately Leet Crew
+[^1]: Moderately Leet Crew
