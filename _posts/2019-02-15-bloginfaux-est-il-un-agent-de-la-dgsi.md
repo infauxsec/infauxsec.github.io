@@ -19,7 +19,7 @@ Une théorie persistante voudrait que Denis l'Expert soit en réalité un agent
 provocateur au service de la DGSI. Sa mission serait d'énerver un maximum
 d'experts en sécurité, en accumulant les messages trollesques [comparant les pompiers à des pédophiles](https://twitter.com/bloginfo/status/1096314844951822336) ou [échouant sur un sujet classique d'un bac de philo](https://twitter.com/bloginfo/status/1096119914547593221). Il conduirait ainsi ces experts en colère à commettre des erreurs d'opsec et à se dévoiler.
 
-![Pompiers et pedos](/assets/denis/pedos.png)
+![Et les mégalomanes chez les politiciens](/assets/denis/pedos.png)
 ![Philo de comptoir](/assets/denis/verite.png)
 
 Une autre hypothèse voudrait que Denis soit un agent de la force cyber nord-coréenne (une affirmation étayée par sa [conaissance suspecte des arts martiaux orientaux](https://twitter.com/bloginfo/status/1095008607983288320)), et que
