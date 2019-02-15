@@ -24,7 +24,7 @@ d'experts en sécurité, en accumulant les messages trollesques [comparant les p
 
 Une autre hypothèse voudrait que Denis soit un agent de la force cyber nord-coréenne (une affirmation étayée par sa [conaissance suspecte des arts martiaux orientaux](https://twitter.com/bloginfo/status/1095008607983288320)), et que
 depuis 30 ans il tente de contaminer les bonnes pratiques de développement franco-français, 
-par exemple en formant les gens à placer des points d'injection SQL dans leur code, ou en embrouillant les sysadmins Linux en leur faisant confondre Control Groups et Common Groups.
+par exemple en formant les stagiaires de l'ANSSI à placer des points d'injection SQL dans leur code, ou en embrouillant les sysadmins Linux en leur faisant confondre Control Groups et Common Groups.
 
 ![Corée](/assets/denis/asie.png)
 ![Injection SQL des familles](/assets/denis/sql.png)
