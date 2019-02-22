@@ -5,8 +5,8 @@ author: "Gérard de Villeet"
 image: "/assets/sac3.jpg"
 tags: ['cyberwar', 'dgse']
 category: reportage
-twitter_text: "Les dossiers déclassifiés du meilleur hacker de France révélés"
-introduction: "Les dossiers déclassifiés du meilleur hacker de France révélés"
+twitter_text: "Les dossiers déclassifiés du meilleur hacker de France révélés (partie 3)"
+introduction: "Les dossiers déclassifiés du meilleur hacker de France révélés (partie 3)"
 ---
 
 (Suite de la [Partie 2](https://infauxsec.github.io/reportage/2019/02/07/son-altesse-cyberissime-2.html))
