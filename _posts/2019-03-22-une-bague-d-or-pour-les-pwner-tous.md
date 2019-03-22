@@ -28,25 +28,16 @@ lois mathématiques sont tout à fait louables, mais la seule loi qui s'applique
 dans le Mordor est la loi du Mordor. »* a-t-il déclaré avant de citer le texte
 de loi en question :
 
-*« Trois bits de protection mémoire, pour le loader ELF dans le kernel
-
-Sept pour la table ASCII, gravée dans le man de pierre
-
-Neuf pour les processus mortels, destinés aux signaux
-
-Un pour l'administrateur réseau sur son sombre trône,
-
-Dans le userspace où se store le /etc/shadow
-
-Une bague d'or pour les pwner tous
-
-Une bague d'or pour les trouer
-
-Une bague d'or pour spawner un shell
-
-Et sur le port 4444 le lier
-
-Dans le userspace où se store le /etc/shadow »*
+*« Trois bits de protection mémoire, pour le loader ELF dans le kernel*  
+*Sept pour la table ASCII, gravée dans le man de pierre*  
+*Neuf pour les processus mortels, destinés aux signaux*  
+*Un pour l'administrateur réseau sur son sombre trône,*  
+*Dans le userspace où se store le /etc/shadow*  
+*Une bague d'or pour les pwner tous*  
+*Une bague d'or pour les trouer*  
+*Une bague d'or pour spawner un shell*  
+*Et sur le port 4444 le lier*  
+*Dans le userspace où se store le /etc/shadow »*
 
 Le premier ministre s'est dans un second temps adouci et a tenu à rassurer la
 population :
