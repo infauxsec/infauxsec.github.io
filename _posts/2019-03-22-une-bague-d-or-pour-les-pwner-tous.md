@@ -4,7 +4,7 @@ title: "Smalcolm Gollbul fait forger une bague d'or pour épier les terroristes"
 author: "Victor Hayden-Cervix"
 image: "/assets/fellowship-of-the-ping.png"
 tags: ['cryptographie', 'mordor', 'baguedor', 'fellowshipOfThePing']
-category:  cryptographie
+category: cryptographie
 twitter_text: "Le premier ministre du Mordor veut que la loi du Mordor prime sur les lois mathématiques"
 introduction: "Le premier ministre du Mordor veut que la loi du Mordor prime sur les lois mathématiques"
 ---
@@ -27,6 +27,8 @@ Smalcolm Gollbull a tout d'abord réagi de manière véhémente :
 lois mathématiques sont tout à fait louables, mais la seule loi qui s'applique
 dans le Mordor est la loi du Mordor. »* a-t-il déclaré avant de citer le texte
 de loi en question :
+
+<!-- forcing reload -->
 
 *« Trois bits de protection mémoire, pour le loader ELF dans le kernel*  
 *Sept pour la table ASCII, gravée dans le man de pierre*  
