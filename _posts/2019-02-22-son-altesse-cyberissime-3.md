@@ -68,7 +68,6 @@ d'un être cauchemardesque, vaguement humanoïde, luisant comme du chrome liquid
 avant de prendre définitivement forme humaine. Il eut à peine le temps d'esquiver son assaut, alors que Jean-Nasir
 tentait désespérément de reprendre les commandes de leur pilote, lui aussi mortellement touché.
 
-*(À suivre…)*
+---
 
-
-
+(Suivi par la [Partie 4](https://infauxsec.github.io/reportage/2019/05/24/son-altesse-cyberissime-4.htm))

@@ -97,6 +97,8 @@ Tout à son contentement, Jean-Malko ne remarqua pas le mince filet de liquide a
 la gravité, suintait depuis sa basket gauche, remontant le long de sa jambe, pour s'immiscer dans le port USB
 de son Macbook.
 
-*(À suivre…)*
-
 [^1]: Moderately Leet Crew
+
+---
+
+(Suivi par la [Partie 3](https://infauxsec.github.io/reportage/2019/02/22/son-altesse-cyberissime-3.htm))

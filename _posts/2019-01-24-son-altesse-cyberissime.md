@@ -99,4 +99,6 @@ jaillit soudainement des tréfonds de sa mémoire. Il lança témérairement à 
 *« Et alors, Poutine ? Tu te liquéfies de peur ? Telle la sauce brune sur des frites de mauvaise
 qualité ? »* Aucun doute, ses vieux réflexes étaient bien revenus. il était prêt au combat.
 
-*(À suivre…)*
+---
+
+(Suivi par la [Partie 2](https://infauxsec.github.io/reportage/2019/02/07/son-altesse-cyberissime-2.htm))
