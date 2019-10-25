@@ -28,7 +28,7 @@ google_analytics: "UA-122089121-1"
 
 # Build settings
 markdown: kramdown
-remote_theme: thiagorossener/jekflix-template
+remote_theme: infauxsec/jekflix-template
 plugins:
   - jekyll-feed
 
